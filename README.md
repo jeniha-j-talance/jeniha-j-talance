@@ -1,5 +1,5 @@
 ## Hi there 👋# 💫 About Me:
-🔭 I’m currently studying at christ collage of engineering<br>👯 I’m looking to collaborate on student projects<br>🤝 I’m looking for help with improving my coding skills<br>🌱 I’m currently learning data science<br>💬 Ask me about  creative story ideas<br>⚡ Fun fact : I believe coffee and code go hand in hand<br>
+🔭 I’m currently studying at christ college of engineering<br>👯 I’m looking to collaborate on student projects<br>🤝 I’m looking for help with improving my coding skills<br>🌱 I’m currently learning data science<br>💬 Ask me about  creative story ideas<br>⚡ Fun fact : I believe coffee and code go hand in hand<br>
 
 
 ## 🌐 Socials:
